@@ -63,28 +63,8 @@ const vishwath = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwath-Narayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Vishwath-Narayana&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwath-Narayana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishwath-Narayana&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🌐 3D Contribution Graph
 
@@ -96,19 +76,7 @@ const vishwath = {
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-[![IDRS](https://github-readme-stats.vercel.app/api/pin/?username=Vishwath-Narayana&repo=IDRS_STUDENT_FRONTEND&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/Vishwath-Narayana/IDRS_STUDENT_FRONTEND)
-[![FileDrive](https://github-readme-stats.vercel.app/api/pin/?username=Vishwath-Narayana&repo=FileDrive&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/Vishwath-Narayana/FileDrive)
-
-[![Drop2Donate](https://github-readme-stats.vercel.app/api/pin/?username=Vishwath-Narayana&repo=Drop2Donate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/Vishwath-Narayana/Drop2Donate)
-[![SaaS Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Vishwath-Narayana&repo=saas-payment-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/Vishwath-Narayana/saas-payment-dashboard)
-
-</div>
-
----
 
 ## 🤝 Connect
 
