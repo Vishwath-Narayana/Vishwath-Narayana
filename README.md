@@ -68,7 +68,7 @@ const vishwath = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vishwath-Narayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwath-Narayana&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Vishwath-Narayana&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwath-Narayana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
 
