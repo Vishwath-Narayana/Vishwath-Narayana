@@ -1,101 +1,236 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                      VISHWATH README                       -->
+<!-- ========================================================= -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishwath%20Narayana&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%20Craftsman&descAlignY=58&descSize=18)
+<h1 align="center">Hi 👋, I'm Vishwath Narayana Thoutam</h1>
 
-</div>
+<h3 align="center">
+Data Engineer • Cloud Enthusiast • Backend Developer
+</h3>
 
-<div align="center">
+<p align="center">
+Building reliable data pipelines, cloud-native applications, and scalable backend systems.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+stunning+SaaS+applications;React+%2B+Next.js+%2B+Node.js+developer;Turning+ideas+into+beautiful+products;UI+first.+Always.)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-<br/>
+## 💻 whoami
 
-```javascript
-const vishwath = {
-  name     : "Vishwath Narayana",
-  role     : "Full Stack Developer",
-  passion  : "Building stunning UI & SaaS applications",
-  frontend : ["React.js", "Next.js", "Shadcn UI"],
-  backend  : ["Node.js", "Express.js"],
-  database : ["MongoDB", "Supabase"],
-  cloud    : ["Cloudinary"],
-  currently: "Shipping SaaS products that look 🔥",
-  motto    : "If the UI isn't stunning, it's not done."
-};
+```yaml
+Name: Vishwath Narayana Thoutam
+
+Role:
+  Data Engineer
+
+Education:
+  B.Tech Computer Science & Engineering
+  Kakatiya Institute of Technology & Science
+
+Location:
+  Warangal, Telangana, India
+
+Interests:
+  - Data Engineering
+  - Cloud Computing
+  - Backend Development
+  - Distributed Systems
 ```
 
-<br/>
+---
+
+## 🚀 Current Focus
+
+- Designing cloud-native ETL pipelines
+- Building scalable backend applications
+- Working with AWS cloud services
+- Learning modern data engineering practices
+- Building production-ready software
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,mysql" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Data Engineering
 
-**Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Lake-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ETL%20Pipelines-3F51B5?style=for-the-badge" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+### Cloud & DevOps
 
-**Cloud & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Databases
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### UI / UX
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
+# 📌 Featured Projects
 
+## 🚖 AWS Data Lake ETL Pipeline for NYC Taxi Analytics
 
+**Tech Stack**
 
-## 🌐 3D Contribution Graph
+`AWS S3` • `AWS Glue` • `PySpark` • `Athena` • `Step Functions` • `EventBridge`
 
-<div align="center">
+**Highlights**
 
-![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
+- Built an end-to-end AWS Data Lake pipeline
+- Raw → Curated → Aggregated architecture
+- Automated ETL using AWS Glue
+- Incremental data processing
+- SQL analytics with Athena
+- Event-driven monthly ingestion
 
 ---
 
+## ☁️ FileDrive — Cloud SaaS Collaboration Platform
 
+**Tech Stack**
 
-## 🤝 Connect
+`React` • `Node.js` • `Express` • `MongoDB` • `Socket.io` • `Cloudinary` • `Supabase`
+
+**Highlights**
+
+- Multi-workspace cloud platform
+- Role-Based Access Control (RBAC)
+- Secure JWT Authentication
+- Cloud file storage
+- Real-time collaboration
+
+---
+
+## 💬 Real-Time Chat Application
+
+**Tech Stack**
+
+`MERN` • `Socket.io` • `JWT` • `Tailwind CSS`
+
+**Highlights**
+
+- One-to-one messaging
+- Group chat
+- Online presence
+- Typing indicators
+- Real-time notifications
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎓 Certifications
+
+- Google Cloud Computing Foundations
+- Cloud Fundamentals
+- Infrastructure
+- Networking & Security
+- Data
+- ML & AI
+- Google Cloud Load Balancing
+- Secure Network Design
+- Data Preparation for ML APIs
+
+---
+
+# 🌟 Leadership
+
+- President — CSE Association
+- Joint Secretary — CSE Association
+- Executive Member — CSE Association
+- Videographer, Photographer & Content Strategist — SAiL
+- Smart India Hackathon (Internal Shortlist)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://yourportfolio.com">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+### Thanks for visiting my profile!
 
-<br/>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Vishwath-Narayana&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
+*"Building reliable software, one project at a time."*
 
 </div>
