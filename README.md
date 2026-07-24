@@ -1,34 +1,27 @@
 <div align="center">
 
-<div align="center">
-
 ```text
-──────────────────────────────────────────────────────────────────────────────
-
-██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗ ████████╗██╗  ██╗
-██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗╚══██╔══╝██║  ██║
-██║   ██║██║███████╗███████║██║ █╗ ██║███████║   ██║   ███████║
-╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║   ██║   ██╔══██║
- ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║   ██║   ██║  ██║
-  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                    ║
+║ ██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗ ████████╗██╗  ██╗                    ║
+║ ██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗╚══██╔══╝██║  ██║                    ║
+║ ██║   ██║██║███████╗███████║██║ █╗ ██║███████║   ██║   ███████║                    ║
+║ ╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║   ██║   ██╔══██║                    ║
+║  ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║   ██║   ██║  ██║                    ║
+║   ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝                    ║
+║                                                                                    ║
+║                      Building scalable data platforms.                             ║
+║                                                                                    ║
+║                Python • SQL • AWS • PySpark • Apache Airflow                      ║
+║                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
-──────────────────────────────────────────────────────────────────────────────
 
-### Building scalable data platforms.
-
-`Python • SQL • AWS • PySpark • Apache Airflow`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Engineer;Cloud+Enthusiast;Backend+Developer;Always+Building+Something+New"/>
 
 </div>
 
 ---
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Building+Scalable+Data+Pipelines;Python+%7C+SQL+%7C+AWS;PySpark+%7C+Apache+Airflow;Cloud+Native+Data+Engineering" />
-
-</div>
-
----
-
 
 # ⚡ Tech Stack
 
@@ -86,9 +79,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishwath-Narayana&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwath-Narayana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwath-Narayana&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwath-Narayana&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -96,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwath-Narayana&theme=github-dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Vishwath-Narayana&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -106,6 +99,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwath-Narayana&theme=github-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwath-Narayana&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
