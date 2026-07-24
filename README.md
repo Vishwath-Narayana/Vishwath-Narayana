@@ -1,8 +1,26 @@
 <div align="center">
 
-# 👋 Hey, I'm Vishwath Narayana
+<div align="center">
 
-### Data Engineer 
+```text
+──────────────────────────────────────────────────────────────────────────────
+
+██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗ ████████╗██╗  ██╗
+██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗╚══██╔══╝██║  ██║
+██║   ██║██║███████╗███████║██║ █╗ ██║███████║   ██║   ███████║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║   ██║   ██╔══██║
+ ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║   ██║   ██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+```
+
+### Building scalable data platforms.
+
+`Python • SQL • AWS • PySpark • Apache Airflow`
+
+</div>
+
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Building+Scalable+Data+Pipelines;Python+%7C+SQL+%7C+AWS;PySpark+%7C+Apache+Airflow;Cloud+Native+Data+Engineering" />
 
