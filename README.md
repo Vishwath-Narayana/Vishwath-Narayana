@@ -1,60 +1,50 @@
-<!-- ========================================================= -->
-<!--                      VISHWATH README                       -->
-<!-- ========================================================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vishwath Narayana Thoutam</h1>
+# Vishwath Narayana Thoutam
 
-<h3 align="center">
-Data Engineer • Cloud Enthusiast • Backend Developer
-</h3>
+### Building scalable software, cloud-native applications, and data platforms.
 
-<p align="center">
-Building reliable data pipelines, cloud-native applications, and scalable backend systems.
-</p>
-
-<p align="center">
+<p>
   <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Data+Engineer;Backend+Developer;Cloud+Enthusiast;Always+building+something+new." alt="Typing SVG"/>
   </a>
 </p>
 
+</div>
+
 ---
 
-## 💻 whoami
+## ~/whoami
 
-```yaml
-Name: Vishwath Narayana Thoutam
+```bash
+$ whoami
 
-Role:
-  Data Engineer
+Name      :: Vishwath Narayana Thoutam
 
-Education:
-  B.Tech Computer Science & Engineering
-  Kakatiya Institute of Technology & Science
+Role      :: Data Engineer
 
-Location:
-  Warangal, Telangana, India
+Focus     :: Cloud Computing
+             Backend Engineering
+             Data Engineering
 
-Interests:
-  - Data Engineering
-  - Cloud Computing
-  - Backend Development
-  - Distributed Systems
+Location  :: Warangal, India
 ```
 
 ---
 
-## 🚀 Current Focus
+## ~/currently-building
 
-- Designing cloud-native ETL pipelines
-- Building scalable backend applications
-- Working with AWS cloud services
-- Learning modern data engineering practices
-- Building production-ready software
+```text
+📦 AWS Data Lake ETL Pipeline
+
+☁️ Cloud SaaS Platform
+
+💬 Real-Time Communication Systems
+```
 
 ---
 
-## 🛠 Tech Stack
+## ~/tech-stack
 
 ### Languages
 
@@ -62,166 +52,114 @@ Interests:
 <img src="https://skillicons.dev/icons?i=python,js,mysql" />
 </p>
 
-### Data Engineering
+### Cloud & Data
 
 <p>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Lake-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ETL%20Pipelines-3F51B5?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </p>
 
-### Cloud & DevOps
-
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### UI / UX
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## ~/featured-projects
 
-## 🚖 AWS Data Lake ETL Pipeline for NYC Taxi Analytics
+<table>
+<tr>
+<td width="33%">
 
-**Tech Stack**
+### 🚖 Data Lake
 
-`AWS S3` • `AWS Glue` • `PySpark` • `Athena` • `Step Functions` • `EventBridge`
+Cloud-native ETL pipeline
 
-**Highlights**
+- AWS S3
+- Glue
+- PySpark
+- Athena
 
-- Built an end-to-end AWS Data Lake pipeline
-- Raw → Curated → Aggregated architecture
-- Automated ETL using AWS Glue
-- Incremental data processing
-- SQL analytics with Athena
-- Event-driven monthly ingestion
+</td>
 
----
+<td width="33%">
 
-## ☁️ FileDrive — Cloud SaaS Collaboration Platform
+### ☁️ FileDrive
 
-**Tech Stack**
+Cloud collaboration platform
 
-`React` • `Node.js` • `Express` • `MongoDB` • `Socket.io` • `Cloudinary` • `Supabase`
+- React
+- Express
+- MongoDB
+- Socket.io
 
-**Highlights**
+</td>
 
-- Multi-workspace cloud platform
-- Role-Based Access Control (RBAC)
-- Secure JWT Authentication
-- Cloud file storage
-- Real-time collaboration
+<td width="33%">
 
----
+### 💬 Chat App
 
-## 💬 Real-Time Chat Application
+Real-time messaging
 
-**Tech Stack**
+- MERN
+- JWT
+- WebSockets
+- Tailwind
 
-`MERN` • `Socket.io` • `JWT` • `Tailwind CSS`
+</td>
 
-**Highlights**
-
-- One-to-one messaging
-- Group chat
-- Online presence
-- Typing indicators
-- Real-time notifications
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+## ~/github
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🎓 Certifications
-
-- Google Cloud Computing Foundations
-- Cloud Fundamentals
-- Infrastructure
-- Networking & Security
-- Data
-- ML & AI
-- Google Cloud Load Balancing
-- Secure Network Design
-- Data Preparation for ML APIs
-
----
-
-# 🌟 Leadership
-
-- President — CSE Association
-- Joint Secretary — CSE Association
-- Executive Member — CSE Association
-- Videographer, Photographer & Content Strategist — SAiL
-- Smart India Hackathon (Internal Shortlist)
-
----
-
-# 🤝 Connect With Me
+## ~/connect
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
 
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<a href="https://yourportfolio.com">Portfolio</a> •
 
-<a href="https://github.com/yourusername">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://yourportfolio.com">
-🌐 Portfolio
-</a>
+<a href="mailto:your@email.com">Email</a>
 
 </p>
 
@@ -229,8 +167,13 @@ Interests:
 
 <div align="center">
 
-### Thanks for visiting my profile!
-
-*"Building reliable software, one project at a time."*
+```cpp
+while (true)
+{
+    Learn();
+    Build();
+    Improve();
+}
+```
 
 </div>
