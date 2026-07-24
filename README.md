@@ -10,30 +10,6 @@
 
 ---
 
-# 📂 About
-
-```yaml
-Name:
-  Vishwath Narayana
-
-Role:
-  Data Engineer
-
-Education:
-  B.Tech Computer Science & Engineering
-
-Interests:
-  Data Engineering
-  Cloud Computing
-  Backend Development
-
-Current Focus:
-  Building scalable ETL pipelines
-  Cloud-native applications
-  Learning modern data engineering
-```
-
----
 
 # ⚡ Tech Stack
 
