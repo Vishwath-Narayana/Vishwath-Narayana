@@ -2,116 +2,35 @@
 
 # 👋 Hey, I'm Vishwath Narayana
 
-### Building scalable data platforms, cloud-native applications, and backend systems.
+### Data Engineer • Cloud Enthusiast • Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Cloud+Enthusiast;Backend+Developer;Python+%7C+SQL+%7C+AWS;Always+Learning.+Always+Building."/>
-
-<br>
-
-<a href="https://github.com/Vishwath-Narayana">
-<img src="https://komarev.com/ghpvc/?username=Vishwath-Narayana&style=flat-square&color=58A6FF"/>
-</a>
-
-<a href="https://github.com/Vishwath-Narayana?tab=followers">
-<img src="https://img.shields.io/github/followers/Vishwath-Narayana?label=Followers&style=flat-square"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Building+Scalable+Data+Pipelines;Python+%7C+SQL+%7C+AWS;PySpark+%7C+Apache+Airflow;Cloud+Native+Data+Engineering" />
 
 </div>
-
----
-
-```text
-~/boot
-
-Initializing Portfolio...
-
-Loading Projects ............... ✓
-
-Connecting AWS ................ ✓
-
-Loading GitHub ................ ✓
-
-Status ........................ ONLINE
-```
 
 ---
 
 # 📂 About
 
 ```yaml
-name: Vishwath Narayana
+Name:
+  Vishwath Narayana
 
-role:
+Role:
   Data Engineer
 
-focus:
-  - Data Engineering
-  - Cloud Computing
-  - Backend Development
+Education:
+  B.Tech Computer Science & Engineering
 
-currently_learning:
-  - AWS
-  - PySpark
-  - Apache Airflow
-  - Data Engineering
-```
+Interests:
+  Data Engineering
+  Cloud Computing
+  Backend Development
 
----
-
-# 🚀 Featured Projects
-
-## 🚖 AWS Data Lake ETL Pipeline
-
-> End-to-end cloud-native ETL pipeline built on AWS.
-
-```text
-AWS S3
-
-AWS Glue
-
-PySpark
-
-Athena
-
-Step Functions
-
-EventBridge
-```
-
----
-
-## ☁️ FileDrive
-
-> Cloud collaboration platform.
-
-```text
-React
-
-Express
-
-MongoDB
-
-Socket.io
-
-Cloudinary
-
-Supabase
-```
-
----
-
-## 💬 Real-Time Chat
-
-> Low-latency messaging platform.
-
-```text
-MERN
-
-JWT
-
-Socket.io
-
-Tailwind CSS
+Current Focus:
+  Building scalable ETL pipelines
+  Cloud-native applications
+  Learning modern data engineering
 ```
 
 ---
@@ -121,7 +40,7 @@ Tailwind CSS
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,js"/>
 </p>
 
 ---
@@ -172,7 +91,7 @@ Tailwind CSS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishwath-Narayana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishwath-Narayana&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwath-Narayana&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -182,7 +101,7 @@ Tailwind CSS
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Vishwath-Narayana&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwath-Narayana&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -192,51 +111,6 @@ Tailwind CSS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwath-Narayana&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🛠 Current Focus
-
-```text
-✓ Building Cloud-native Data Pipelines
-
-✓ Designing Reliable ETL Workflows
-
-✓ Developing Scalable Backend Systems
-
-✓ Exploring Modern Data Engineering
-```
-
----
-
-# 🌐 Connect
-
-<p>
-
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-
-<a href="mailto:YOUR_EMAIL">Email</a>
-
-</p>
-
----
-
-<div align="center">
-
-```cpp
-while (true)
-{
-    Learn();
-
-    Build();
-
-    Improve();
-}
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwath-Narayana&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
